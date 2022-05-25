@@ -36,3 +36,7 @@ OPEN <object>     Open something that is in the room
 
 ASK <person>      Ask a person to talk to you
 ```
+
+# Further reading
+
+[blogs.sap.com - An ABAPventure](https://blogs.sap.com/2022/05/13/an-abapventure/)
